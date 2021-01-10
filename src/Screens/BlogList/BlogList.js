@@ -41,7 +41,6 @@ const BlogList = (props) => {
 }
 
 BlogList.navigationOptions = (props) => {
-    console.log(props);
     return {
         headerRight() {
             return (
